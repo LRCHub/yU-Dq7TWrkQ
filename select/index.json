@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フェイタルエラー",
+  "base_artist": "bagueGames",
+  "createdAt": "2026-01-08T07:36:42.403807Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フェイタルエラー (feat. lonePi)",
+      "artist": "bagueGames",
+      "has_synced": false,
+      "path": "select/pl_01_フェイタルエラー_(feat._lonePi)_bagueGames.txt"
+    }
+  ]
+}
